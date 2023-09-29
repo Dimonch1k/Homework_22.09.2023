@@ -1,0 +1,3 @@
+﻿  Library.cpp
+C:\Users\student\source\repos\Homework_22.09.2023\Homework_22.09.2023\Library.cpp(37,36): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+  Homework_22.09.2023.vcxproj -> C:\Users\student\source\repos\Homework_22.09.2023\x64\Debug\Homework_22.09.2023.exe
